@@ -1,0 +1,9 @@
+com.github.brahmanand012.loganalyser
+com.github.brahmanand012.loganalyser.conf
+com.github.brahmanand012.loganalyser.manager
+com.github.brahmanand012.loganalyser.model
+com.github.brahmanand012.loganalyser.model.persistence
+com.github.brahmanand012.loganalyser.repository
+com.github.brahmanand012.loganalyser.service
+com.github.brahmanand012.loganalyser.utilities
+com.github.brahmanand012.loganalyser.validator

@@ -48,7 +48,7 @@ Example contents of logfile.txt:
 {"id":"scsmbstgrc", "state":"STARTED", "timestamp":1491377495210}
 {"id":"scsmbstgrb", "state":"FINISHED", "timestamp":1491377495216}
 
-```json
+```
 In the example above, the event `scsmbstgrb` duration is `1491377495216 - 1491377495213 = 3ms`.
 The longest event is `scsmbstgrc` (`1491377495218 - 1491377495210 = 8ms`).
 
